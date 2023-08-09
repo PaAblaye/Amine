@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include "regle.h"
-
+//bonjour le monde
 
 int main( int argc , char* argv[]){
     if(argc<2){
